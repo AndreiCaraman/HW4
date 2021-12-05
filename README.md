@@ -13,3 +13,5 @@ In this homework we had to create a minhash function and then search the best ma
 Some features are slow to recreate; you can use this datasets:
 - https://drive.google.com/file/d/1n1vAi7aNqfjKXZ2CS-Cu6Ys7H2mnCB8q/view?usp=sharing for exercise 2.4
 - https://drive.google.com/file/d/1HfFVeugEWAqEpvT7JyNiSuZPklSrUBAa/view?usp=sharing for exercise 2.7
+
+Link to the Jupyter Notebook Viewer: https://nbviewer.org/github/AndreiCaraman/HW4/blob/master/main.ipynb
