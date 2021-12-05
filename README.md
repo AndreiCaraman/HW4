@@ -2,8 +2,8 @@
 In this homework we had to create a minhash function and then search the best match songs from the database w.r.t. query songs. Then we had to work on a large dataset and apply dimensionality reduction and cluster methods to make some analysis on different types of features
 ## Content Description
 - ``main.ipynb`` is the notebook containing all the answers to the research and theoretical questions.
-- ``IDofTrack``
-- ``SignatureMatrix``
+- ``IDofTrack`` is a dictionary containig the association of tracks and an assigned ID, unpickle it to test the code
+- ``SignatureMatrix`` is the matrix containig the computed signatures of the tracks, you can unpickle this as well to test the code
 ## Group Members
 - Andrei Caraman
 - Alex Onofri
